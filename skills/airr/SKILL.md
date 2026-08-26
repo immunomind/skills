@@ -1,5 +1,5 @@
 ---
-name: immunarch
+name: airr
 description: Use this skill for AIRR-seq (Adaptive Immune Receptor Repertoire / VDJ-seq) data analysis with immunarch + immundata in R, including ingestion, receptor schema design, immutable transformations, clonality/diversity/public overlap metrics, and Seurat/AnnData integration.
 ---
 
