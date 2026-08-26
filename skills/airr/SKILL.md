@@ -1,6 +1,6 @@
 ---
 name: immunarch
-description: Analyze bulk and single-cell TCR AIRR-seq data in R with the current ImmunData workflow from immundata and repertoire-analysis functions from immunarch.
+description: Use this skill for AIRR-seq (Adaptive Immune Receptor Repertoire / VDJ-seq) data analysis with immunarch + immundata in R, including ingestion, receptor schema design, immutable transformations, clonality/diversity/public overlap metrics, and Seurat/AnnData integration.
 ---
 
 # AIRR-seq analysis with immunarch and immundata
